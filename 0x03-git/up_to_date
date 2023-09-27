@@ -1,1 +1,2 @@
-git pull 'remote_name' 'branch_name'
+git pull 'remote_name' branch_name'
+>>>>
