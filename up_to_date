@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git pull "remote name" "branch name"
+=======
+git pull 'remote_name' 'branch_name'
+>>>>>>> update_script
